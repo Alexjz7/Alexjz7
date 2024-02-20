@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------
 - 👋 Hola, soy Rene Jibaja Zuñiga
-- 👀 Estoy interesado en la programación.
+- 👀 Programador.
 - 🌱Actualmente estoy enfocado en pulir mis habilidades en diferentes lenguajes de programación.
 - 💞️ Busco colaborar en Proyectos Web
 - 📫Cómo contactarme rene.jibaja.z@gmail.com
