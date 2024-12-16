@@ -2,7 +2,7 @@
 - 👋 Hola, soy Rene Jibaja Zuñiga
 - 👀 Programador.
 - 🌱Actualmente estoy enfocado en pulir mis habilidades en diferentes lenguajes de programación.
-- 💞️ Busco colaborar en Proyectos Web
+- 💞️ Busco colaborar en Proyectos Web que reten mis habilidades.
 - 📫Cómo contactarme rene.jibaja.z@gmail.com
 - 😄 Pronombres: Alex
 - ⚡Dato curioso: Soy un artista empedernido que da rienda suelta a la creatividad en los proyectos.
